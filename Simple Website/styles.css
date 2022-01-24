@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1563912318602-3c017a39e996?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80");
+}
+
+p {
+    color: white; 
+}
+h1{
+    color: white; 
+}
+div {
+    padding-top: 30em; 
+    margin-left: 10em; 
+    height: 800px;
+    width: 700px; 
+    background-image: url("https://images.unsplash.com/photo-1454916286212-0ea211dc68d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80");
+    background-repeat: no-repeat; 
+    border-right: 10px burlywood ridge; 
+    border-left: 10px burlywood ridge; 
+
+}
